@@ -10,4 +10,3 @@ let { flash } = useFlash()
     </p>
   </div>
 </template>
-
